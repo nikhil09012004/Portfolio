@@ -1,0 +1,42 @@
+Please add the following images to this folder:
+
+## Profile Photo:
+- **profile.jpg** - Your professional profile photo
+  - Recommended: Professional headshot with good lighting
+  - Size: 500x500px (square) or similar
+  - Format: JPG or PNG
+
+## Project Screenshots:
+Add these to the `projects/` subfolder:
+
+1. **projects/bank-loan-dashboard.png** - Bank Loan Dashboard screenshot
+2. **projects/loan-prediction.png** - Loan Prediction System screenshot
+
+## Certificate Screenshots:
+Add these to the `certificates/` subfolder:
+
+1. **certificates/nptel-privacy-security.jpg** - NPTEL certificate
+2. **certificates/coursera-powerbi.jpg** - Coursera certificate
+3. **certificates/lpu-dsa.jpg** - LPU DSA certificate
+4. **certificates/lpu-dsa-cpp.jpg** - LPU DSA C++ certificate
+
+## Folder Structure:
+```
+images/
+├── profile.jpg
+├── projects/
+│   ├── bank-loan-dashboard.png
+│   └── loan-prediction.png
+└── certificates/
+    ├── nptel-privacy-security.jpg
+    ├── coursera-powerbi.jpg
+    ├── lpu-dsa.jpg
+    └── lpu-dsa-cpp.jpg
+```
+
+## Notes:
+- If images are missing, placeholder images will be shown
+- Use high-quality images for better presentation
+- Keep file sizes reasonable (under 1MB each)
+- PNG format recommended for screenshots
+- JPG format recommended for photos
